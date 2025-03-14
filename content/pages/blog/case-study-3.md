@@ -1,7 +1,7 @@
 ---
 title: Comment porter le pantalon kaki
 slug: case-study-3
-date: '2021-03-14'
+date: '2025-03-14'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
