@@ -26,7 +26,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: /
+        url: 'https://amchou.com/'
         showIcon: false
         icon: arrowRight
         iconPosition: right
