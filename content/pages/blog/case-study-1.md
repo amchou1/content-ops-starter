@@ -1,7 +1,7 @@
 ---
 title: 'Salon en cuir 7 places '
 slug: case-study-1
-date: ''
+date: '5202-02-14'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
