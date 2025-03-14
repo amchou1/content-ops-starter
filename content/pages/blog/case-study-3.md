@@ -87,19 +87,63 @@ styles:
     flexDirection: col
 type: PostLayout
 ---
-
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor.
-
-Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
-
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum.
-
-> Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+> Le pantalon kaki est une pièce incontournable de la garde-robe masculine, alliant polyvalence, élégance et confort. Son histoire riche et ses multiples déclinaisons en font un choix privilégié pour de nombreux hommes.
 >
-> _By Laura Gómez - Product Marketing Manager_
+> # **Origines et histoire du pantalon kaki**
+>
+> Le terme "kaki" provient du mot ourdou signifiant "poussière" ou "terre". À l'origine, il désignait une couleur utilisée par l'armée britannique au milieu du XIXᵉ siècle pour se fondre dans les environnements désertiques. Les soldats portaient des uniformes blancs et des manteaux rouges en laine, peu adaptés aux climats chauds de l'Inde coloniale. Pour remédier à cela, ils teignaient leurs vêtements en couleur terre, donnant naissance au kaki. Cette teinte est rapidement devenue synonyme de tenue militaire 
+>
+>
+>
+> Après les guerres mondiales, les anciens combattants ont intégré le pantalon kaki dans leur tenue civile, popularisant ainsi cette pièce dans la mode quotidienne. Dans les années 1950, le chino, une version plus légère et ajustée du pantalon kaki, est devenu un incontournable des campus universitaires et des tenues décontractées. 
+>
+>
+>
+> ## **Variétés de pantalons kaki**
+>
+> Le pantalon kaki se décline en plusieurs styles, adaptés à diverses occasions :
+>
+> *   **Chino** : Léger et confortable, il est idéal pour un look casual ou semi-formel.
+>
+> *   **Cargo** : Inspiré des tenues militaires, il est doté de poches latérales et offre une allure décontractée.
+>
+> *   **Pantalon de ville** : Plus formel, il convient aux environnements professionnels ou aux événements habillés.
+>
+> ### **Comment porter le pantalon kaki**
+>
+> Le pantalon kaki est réputé pour sa capacité à s'associer avec une multitude de couleurs et de styles :
+>
+> *   **Avec des tons neutres** : Associez-le à des hauts blancs, gris ou noirs pour une tenue sobre et élégante.
+>
+> *   **Avec des couleurs vives** : Pour une touche de dynamisme, optez pour des chemises ou des t-shirts aux teintes vives comme le bleu roi ou le bordeaux.
+>
+> *   **Style décontracté** : Portez-le avec un t-shirt basique et des baskets pour une allure relax.
+>
+> *   **Style formel** : Combinez-le avec une chemise bien coupée et des chaussures en cuir pour une apparence soignée.
+>
+> #### **Conseils pour choisir le bon pantalon kaki**
+>
+> *   **Coupe** : Optez pour une coupe adaptée à votre morphologie. Les coupes slim conviennent aux silhouettes fines, tandis que les coupes droites sont plus polyvalentes.
+>
+> *   **Matière** : Privilégiez des tissus de qualité comme le coton ou la laine pour un meilleur confort et une durabilité accrue.
+>
+> *   **Longueur** : Assurez-vous que la longueur du pantalon est appropriée, ni trop longue ni trop courte, pour éviter les faux pas stylistiques.
+>
+> ##### **Entretien du pantalon kaki**
+>
+> Pour préserver l'éclat et la forme de votre pantalon kaki :
+>
+> *   **Lavage** : Suivez les indications de l'étiquette. Il est généralement recommandé de laver à l'envers à basse température.
+>
+> *   **Séchage** : Évitez le sèche-linge qui peut altérer la couleur et la matière. Préférez un séchage à l'air libre.
+>
+> *   **Repassage** : Repasser à température modérée en suivant les indications du fabricant pour éviter d'endommager le tissu.
+>
+> **Conclusion**
+>
+> Le pantalon kaki est une pièce maîtresse du vestiaire masculin, offrant une multitude de possibilités stylistiques. Que ce soit pour une tenue décontractée ou formelle, il s'adapte à toutes les situations, faisant de lui un incontournable de la mode homme.
+>
+>
+>
+>
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
-
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
-
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
