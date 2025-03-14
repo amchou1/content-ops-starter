@@ -112,7 +112,7 @@ La mode masculine à Dakar reflète une fusion harmonieuse entre les influences 
 
 Plusieurs boutiques à Dakar proposent une gamme variée de vestes pour hommes, adaptées à tous les goûts et budgets :
 
-*   **Amchou** : Située à Dakar, cette boutique offre une large sélection de vêtements pour hommes, notamment des vestes, pantalons et chaussures de qualité. Chaque produit est soigneusement sélectionné pour offrir des articles tendance et durables. cite[www.amchou.com](https://amchou.com/)
+*   **Amchou** : Située à Dakar, cette boutique offre une large sélection de vêtements pour hommes, notamment des vestes, pantalons et chaussures de qualité. Chaque produit est soigneusement sélectionné pour offrir des articles tendance et durables. voici leurs cite officiel [www.amchou.com](https://amchou.com/)
 
 *   **Nova** : Cette boutique en ligne propose une collection spéciale de costumes et vestes pour hommes, adaptés aux événements formels et informels. Les produits allient élégance et qualité, répondant aux besoins des clients sénégalais. citeturn0search6
 
