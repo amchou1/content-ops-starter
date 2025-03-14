@@ -10,10 +10,19 @@ sections:
     subtitle: >-
       "Tendances, conseils et adresses incontournables pour un style impeccable
       à Dakar.
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      S’habiller avec style à Dakar est à la portée de tous ! Que vous soyez fan
+      du look tradi-moderne, du streetwear ou du casual chic, il existe de
+      nombreuses options pour vous exprimer à travers vos vêtements. En suivant
+      ces conseils et en explorant les meilleures boutiques de la ville, vous
+      pourrez affirmer votre style et vous sentir à l’aise en toute occasion.
+
+
+      Restez connecté sur notre blog pour plus de conseils mode et les dernières
+      tendances vestimentaires à Dakar ! 
+
+
+
     actions:
       - label: Get started
         altText: ''
