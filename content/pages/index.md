@@ -35,7 +35,7 @@ sections:
         type: Button
       - label: See Tutorials
         altText: ''
-        url: /
+        url: 'https://amchou.com/veste-pour-homme-sur-dakar/'
         showIcon: true
         icon: arrowRight
         iconPosition: right
