@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: Veste pour homme sur dakar
-date: '2022-10-14'
+date: '2022-03-14'
 author: content/data/person1.json
 excerpt: >-
   Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
