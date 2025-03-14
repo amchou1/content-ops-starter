@@ -39,7 +39,7 @@ bottomSections:
       type: TitleBlock
       text: Comment pouvons nous vous aider?
       color: text-dark
-    subtitle: Section with a form subtitle
+    subtitle: Conseils personnalisés en style vestimentaire
     text: >+
 
       Notre équipe d'experts en mode est à votre disposition pour vous offrir
