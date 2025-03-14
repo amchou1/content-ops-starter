@@ -24,7 +24,7 @@ sections:
 
 
     actions:
-      - label: Get started
+      - label: 'Visiter '
         altText: ''
         url: 'https://amchou.com/'
         showIcon: false
