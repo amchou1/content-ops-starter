@@ -8,7 +8,7 @@ excerpt: >-
   Donec sed facilisis nibh.
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: '/images/IMG_2052[1]_clipped_rev_1.jpeg'
   altText: Thumbnail
   elementId: ''
   styles:
