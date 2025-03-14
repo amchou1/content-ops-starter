@@ -1,5 +1,7 @@
 ---
-title: The Top Ten Lessons We’ve Learned Since Our Initial Launch
+title: >-
+  "Les Meilleurs Endroits pour Acheter un Pantalon de Jogging à Dakar :
+  Boutiques et Sites en Ligne"
 slug: top-ten-lessons-we-learned
 date: '2025-01-02'
 excerpt: >-
