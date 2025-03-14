@@ -36,12 +36,11 @@ Si vous recherchez des ensembles de jogging à Dakar, plusieurs options s'offren
 
 2.  **Decathlon Sénégal** : Cette enseigne internationale dispose d'un magasin à Dakar, proposant une large gamme d'articles de sport, y compris des ensembles de jogging pour hommes. Leur collection est réputée pour sa qualité et sa durabilité. Pour consulter leurs produits, vous pouvez visiter le site de AmChou qui Offre des prix plus compétitif sur les  [Ensemble Jogging pour homme](https://amchou.com/ensemble-jogging-pour-homme/)
 
-
+3.  ![](/images/IMG_20240507_155220_clipped_rev_1.webp)
 
 **Plateformes en ligne sénégalaises :**
 
 1.  **Dakarmarket.sn** : Cette plateforme en ligne offre une variété de survêtements et ensembles pour hommes. Les produits disponibles se déclinent en plusieurs couleurs, designs élégants et tissus confortables, le tout à des prix attractifs. Les marques proposées incluent Adidas, FILA, Nike et Puma. Pour explorer les modelés les plus tendance , visitez : [Ensemble Nike Homme Sans Capuche](https://amchou.com/ensemble-nike-homme-sans-capuche/)
-
 
 2.  **Expat-Dakar** : Ce site est une référence pour les petites annonces au Sénégal. Vous y trouverez des annonces de vêtements pour hommes, y compris des ensembles de jogging, proposés par des vendeurs particuliers et professionnels. Pour consulter les grande Taille disponibles, rendez-vous sur : [Ensemble Nike grande Taille](https://amchou.com/ensemble-nike-grande-taille/)
 
