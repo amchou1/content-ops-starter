@@ -7,7 +7,9 @@ sections:
       text: '"Élégance et style au masculin – Votre guide mode à Dakar !"'
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: >-
+      "Tendances, conseils et adresses incontournables pour un style impeccable
+      à Dakar.
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
