@@ -4,7 +4,7 @@ title: >-
   Boutiques et Sites en Ligne"
 slug: top-ten-lessons-we-learned
 date: '2025-03-14'
-excerpt: 'voir plus '
+excerpt: 'pour savoir plus sur Nos Ensemble Jogging cliquez ici '
 featuredImage:
   url: /images/IMG_20240507_155220_clipped_rev_1.webp
   altText: Thumbnail
