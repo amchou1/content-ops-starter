@@ -91,11 +91,11 @@ type: PostLayout
 >
 > # **Origines et histoire du pantalon kaki**
 >
-> Le terme "kaki" provient du mot ourdou signifiant "poussière" ou "terre". À l'origine, il désignait une couleur utilisée par l'armée britannique au milieu du XIXᵉ siècle pour se fondre dans les environnements désertiques. Les soldats portaient des uniformes blancs et des manteaux rouges en laine, peu adaptés aux climats chauds de l'Inde coloniale. Pour remédier à cela, ils teignaient leurs vêtements en couleur terre, donnant naissance au kaki. Cette teinte est rapidement devenue synonyme de tenue militaire 
+> Le terme "kaki" provient du mot ourdou signifiant "poussière" ou "terre". À l'origine, il désignait une couleur utilisée par l'armée britannique au milieu du XIXᵉ siècle pour se fondre dans les environnements désertiques. Les soldats portaient des uniformes blancs et des manteaux rouges en laine, peu adaptés aux climats chauds de l'Inde coloniale. Pour remédier à cela, ils teignaient leurs vêtements en couleur terre, donnant naissance au kaki. Cette teinte est rapidement devenue synonyme de tenue militaire
+>
+> Après les guerres mondiales, les anciens combattants ont intégré le pantalon kaki dans leur tenue civile, popularisant ainsi cette pièce dans la mode quotidienne. Dans les années 1950, le chino, une version plus légère et ajustée du pantalon kaki, est devenu un incontournable des campus universitaires et des tenues décontractées. pour Savoir plus sur nos [**Pantalon kaki Homme**](https://amchou.com/pantalon-kaki-homme/)
 >
 >
->
-> Après les guerres mondiales, les anciens combattants ont intégré le pantalon kaki dans leur tenue civile, popularisant ainsi cette pièce dans la mode quotidienne. Dans les années 1950, le chino, une version plus légère et ajustée du pantalon kaki, est devenu un incontournable des campus universitaires et des tenues décontractées. 
 >
 >
 >
@@ -131,7 +131,7 @@ type: PostLayout
 >
 > ##### **Entretien du pantalon kaki**
 >
-> Pour préserver l'éclat et la forme de votre pantalon kaki :
+> Pour préserver l'éclat et la forme de votre pantalon kaki : 
 >
 > *   **Lavage** : Suivez les indications de l'étiquette. Il est généralement recommandé de laver à l'envers à basse température.
 >
@@ -141,9 +141,5 @@ type: PostLayout
 >
 > **Conclusion**
 >
-> Le pantalon kaki est une pièce maîtresse du vestiaire masculin, offrant une multitude de possibilités stylistiques. Que ce soit pour une tenue décontractée ou formelle, il s'adapte à toutes les situations, faisant de lui un incontournable de la mode homme.
->
->
->
->
+> Le [Pantalon Kaki pour Homme](https://amchou.com/pantalon-kaki-pour-homme/) est une pièce maîtresse du vestiaire masculin, offrant une multitude de possibilités stylistiques. Que ce soit pour une tenue décontractée ou formelle, il s'adapte à toutes les situations, faisant de lui un incontournable de la mode homme.
 
