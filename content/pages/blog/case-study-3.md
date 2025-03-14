@@ -1,5 +1,5 @@
 ---
-title: Comment porter le pantalon kaki
+title: Comment porter le pantalon kaki?
 slug: case-study-3
 date: '2025-03-14'
 excerpt: >-
