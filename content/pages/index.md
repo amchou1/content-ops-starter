@@ -33,7 +33,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
+      - label: 'See Nos veste '
         altText: ''
         url: 'https://amchou.com/veste-pour-homme-sur-dakar/'
         showIcon: true
