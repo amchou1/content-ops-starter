@@ -1,14 +1,18 @@
 ---
 type: PostLayout
-title: This is a blog post with a CTA
-date: '2022-10-10'
+title: Veste pour homme sur dakar
+date: '2025-03-14'
 author: content/data/person1.json
 excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+  Porter une veste à deux boutons avec élégance repose sur quelques règles
+  simples : bien choisir sa coupe et sa matière, respecter le boutonnage,
+  assortir les bons vêtements et accessoiriser intelligemment. Que ce soit pour
+  un look professionnel, décontracté ou de soirée, la veste à deux boutons est
+  un allié incontournable du dressing masculin.En suivant ces conseils, vous
+  pourrez composer des tenues stylées et adaptées à toutes les occasions !
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: '/images/IMG_2052[1]_clipped_rev_1.jpeg'
   altText: Thumbnail
   elementId: ''
   styles:
